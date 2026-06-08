@@ -4,7 +4,7 @@ Backend Software Engineer focused on automation, integrations, scalable backend 
 
 ## About Me
 
-* Backend development with Python
+* Backend development with Python and modern API technologies
 * API integrations and business process automation
 * Shopify ecosystem and e-commerce operations
 * Data processing pipelines (XML, JSON, ETL)
