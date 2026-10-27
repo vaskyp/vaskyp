@@ -67,6 +67,9 @@ Shopify app designed to automate product catalogue translation across multiple l
 - Translation job management
 - Multi-language catalogue localization
 
+🔗 Repository:
+https://github.com/vaskyp/shopify-catalogue-translator/blob/main/README.md
+
 ---
 
 ### Shopify ↔ Skroutz Inventory Synchronization Service
