@@ -53,6 +53,24 @@ https://github.com/vaskyp/multi-supplier-shopify-synchronization-platform
 
 ---
 
+### Shopify Catalogue Translator
+
+Shopify app designed to automate product catalogue translation across multiple languages, helping merchants localize their stores more efficiently.
+
+**Highlights**
+
+- AI-powered product catalogue translation
+- Shopify OAuth authentication and API integration
+- Product title and description translation
+- Collection translation
+- Configurable translation workflows
+- Translation job management
+- Multi-language catalogue localization
+
+🔗 Live App: [https://translator.multirama.eu](https://translator.multirama.eu)
+
+---
+
 ### Shopify ↔ Skroutz Inventory Synchronization Service
 
 Event-driven integration service that synchronizes inventory and product availability between Shopify and Skroutz in near real-time.
