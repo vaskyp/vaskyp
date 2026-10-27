@@ -35,7 +35,7 @@ LLM APIs • Prompt Engineering • Git • Playwright • BeautifulSoup
 
 ### Multi-Supplier Shopify Synchronization Platform
 
-Production-oriented backend platform designed to process supplier feeds, normalize product data, synchronize inventory and pricing, and automate Shopify catalog management.
+Production-oriented backend platform designed to process supplier feeds, normalize and enrich product data, synchronize inventory and pricing, and automate Shopify catalog management.
 
 **Highlights**
 
@@ -43,6 +43,7 @@ Production-oriented backend platform designed to process supplier feeds, normali
 * Multiple supplier integrations
 * XML & JSON feed processing
 * Product normalization pipeline
+* Automated product content enrichment (descriptions, specifications, reviews)
 * Shopify GraphQL Bulk Operations
 * Inventory & pricing automation
 * Linux VPS deployment
