@@ -67,8 +67,6 @@ Shopify app designed to automate product catalogue translation across multiple l
 - Translation job management
 - Multi-language catalogue localization
 
-🔗 Live App: [https://translator.multirama.eu](https://translator.multirama.eu)
-
 ---
 
 ### Shopify ↔ Skroutz Inventory Synchronization Service
